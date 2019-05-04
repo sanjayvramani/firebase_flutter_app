@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "276649168862",
+    "firebase_url": "https://myfbnotification-28f85.firebaseio.com",
+    "project_id": "myfbnotification-28f85",
+    "storage_bucket": "myfbnotification-28f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276649168862:android:b254c05f0fee0505",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276649168862-23h5acbg6evgv81sbomr8eaadg81v50i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6IdWqr2wrSJQ-ECIG5-VDDz5xKAL6xcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276649168862-23h5acbg6evgv81sbomr8eaadg81v50i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276649168862:android:b68c9b4736aeac33",
+        "android_client_info": {
+          "package_name": "com.myfbnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276649168862-23h5acbg6evgv81sbomr8eaadg81v50i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6IdWqr2wrSJQ-ECIG5-VDDz5xKAL6xcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276649168862-23h5acbg6evgv81sbomr8eaadg81v50i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
